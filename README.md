@@ -1,7 +1,7 @@
-# vdom-benchmark-react
+# vdom-benchmark-deku
 
 [Virtual DOM Benchmark](https://github.com/localvoid/vdom-benchmark)
-implementation for [React](http://facebook.github.io/react/) library.
+implementation for [Deku](http://github.com/dekujs/deku/) library.
 
 ## Development
 
