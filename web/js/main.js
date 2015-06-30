@@ -36,7 +36,8 @@ BenchmarkImpl.prototype.setUp = function() {
 };
 
 BenchmarkImpl.prototype.tearDown = function() {
-  // this.renderer.remove();
+  this.renderer.remove();
+  this.tree.unmount();
 };
 
 BenchmarkImpl.prototype.render = function() {
