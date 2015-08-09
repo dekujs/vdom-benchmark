@@ -27,6 +27,7 @@ function renderTree(nodes) {
 
 function BenchmarkImpl(container, a, b) {
   this.tree = deku.tree();
+  this.tree.option('batching', false);
   this.container = container;
   this.a = a;
   this.b = b;

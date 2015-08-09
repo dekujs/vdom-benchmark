@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "deku": "^0.4.1",
-    "vdom-benchmark-base": "^0.2.2"
+    "vdom-benchmark-base": "^0.2.4"
   },
   "devDependencies": {
     "browser-sync": "^1.9.0",
